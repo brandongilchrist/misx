@@ -1,0 +1,6 @@
+{
+    "name": "SkyBTC Test1",
+    "symbol" : "SkyBTCT1",
+    "description": "Basic Test Token for SkyBTC",
+    "image": "https://github.com/brandongilchrist/misx/blob/e8d557b204fc256d28b1afca121d07964746911a/skybtc.png"
+}
